@@ -18,7 +18,7 @@ Guayaquil-Ecuador
 - Unidad Educativa Particular "Nueva Generacion"
 
 ### Estudios Secundarios
-- Unidad educativa Particular "Sofos"
+- Unidad Educativa Particular "Sofos"
 
 ### Estudios Universitarios
 - Ingenieria en Computación en la Universidad Politécnica Salesiana
