@@ -24,6 +24,6 @@ Guayaquil-Ecuador
 - Ingenieria en Computación en la Universidad Politécnica Salesiana
 
 ### Habilidades
-- Programar en python
+- Programar en Python
 - Programar en MATLAB
 - Programar en Java
